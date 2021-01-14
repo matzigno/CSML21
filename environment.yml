@@ -1,0 +1,12 @@
+name: CSML21
+dependencies:
+ - python=3.8
+ - pip
+ - matplotlib
+ - jupyter
+ - jupyterlab
+ - pandas
+ - numpy
+ - scipy
+ - scikit-learn
+ - tensorflow
